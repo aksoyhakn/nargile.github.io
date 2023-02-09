@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vakifbank.mobile.feature",
+    "sha256_cert_fingerprints":
+    ["37:AA:C8:30:F7:26:F7:43:B8:A9:C1:05:74:81:91:9D:83:FC:AA:93:68:56:37:98:C2:6C:EB:F4:81:A6:95:C0"]
+  }
+}]
